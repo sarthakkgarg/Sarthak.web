@@ -16,7 +16,7 @@ var messages = [
   'I\'m Sarthak Garg',
   'I design and code things on the web',
   'I\'m a Full Stack Developer.<br> You can contact me at <a href="https://sarthakgargx@gmail.com;">https://sarthakgargx@gmail.com</a>',
-  'Or<br><a target="_blank" href="#">twitter.com/typicalsarthak</a><br><a target="_blank" href="#">www.instagram.com/sarthakk.garg</a><br><a target="_blank" href="#">github.com/sarthakkgarg</a>',
+  'Or<br><a target="_blank" href="#">https://www.linkedin.com/in/sarthakkgarg/</a><br><a target="_blank" href="#">www.instagram.com/sarthakk.garg</a><br><a target="_blank" href="#">github.com/sarthakkgarg</a>',
   getCurrentTime(),
   'S.'
 ];
