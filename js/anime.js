@@ -1,11 +1,4 @@
-/*
- * Anime v1.0.0
- * http://anime-js.com
- *
- * Copyright (c) Julian Garnier
- * http://juliangarnier.com
- * Released under the MIT license
- */
+
 
 var anime = (function() {
 
