@@ -1,2 +1,2 @@
 # Sarthak.web
-<a href="sarthakgarg.netlify.com">Live</a>
+<a href="https://sarthakgarg.netlify.com/">Live</a>
