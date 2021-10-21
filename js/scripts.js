@@ -14,8 +14,8 @@ var getCurrentTime = function() {
 var messages = [
   'Hey there 👋',
   'I\'m Sarthak Garg',
-  'I design and code things on the web',
-  'I\'m a Full Stack Developer.<br> You can contact me at <a href="https://sarthakgargx@gmail.com;">https://sarthakgargx@gmail.com</a>',
+  'I Freelancer Photographer & Full Stack Developer.',
+  'I am from Vidisha, Madhya Pradesh.<br> You can visit my photography page <a href="https://www.instagram.com/insanely.artistic">Here</a>  <br> You can connect me on  <a href="https://www.linkedin.com/in/sarthakkgarg/">linkedin</a>  <br> You can see my projects here  <a href="https://www.github.com/sarthakkgarg/">github</a>',
   getCurrentTime(),
   'S.'
 ];
