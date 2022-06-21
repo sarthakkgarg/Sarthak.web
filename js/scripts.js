@@ -15,7 +15,7 @@ var messages = [
   'Hey there 👋',
   'I\'m Sarthak Garg',
   'I am a Software Developer.',
-  'Based in Vidisha, Madhya Pradesh, India <br> <br> You can connect me on  <a href="https://www.linkedin.com/in/sarthakkgarg/">linkedin</a>  <br> You can see my projects here  <a href="https://www.github.com/sarthakkgarg/">github</a>',
+  'Based in Vidisha, Madhya Pradesh, India <br> You can connect me on  <a href="https://www.linkedin.com/in/sarthakkgarg/">linkedin</a>  <br> You can see my projects here  <a href="https://www.github.com/sarthakkgarg/">github</a>',
   getCurrentTime(),
   'S.'
 ];
